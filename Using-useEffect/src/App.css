@@ -1,0 +1,18 @@
+#post-item {
+  border: 1px solid black;
+  padding: 10px 10px;
+  margin: 10px 10px;
+}
+
+#post-item:hover {
+  border: 1px solid red;
+}
+
+#post-item:active {
+  border: 1px solid blue;
+}
+
+#post-item h1 {
+  color: red !important;
+}
+
